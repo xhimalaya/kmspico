@@ -1,0 +1,67 @@
+13:42:53:479 2015.11.29 KMS GUI ELDI 36.0.0.9
+Official Site: 
+http://forums.mydigitallife.info/forums/51-KMS-tools
+KMSpico v10.8.1
+Windows Detected: Windows 10 Pro : Professional : 6.3 : 10240.16545
+
+13:42:53:491 Loading SECOH-QAD...
+13:42:53:493 Set Registry : Image File Execution Options\SppExtComObj.exe:Debugger
+13:42:53:493 Using host: 10.97.186.105:1688
+13:42:53:493 Using method: SECOH-QAD
+13:42:53:502 Time Start: 29/11/2015 13:42:53
+13:42:53:504 Checking Internet Connection...
+13:42:53:618 Internet Connection Detected
+13:42:53:619 Synchronizing Time...
+13:42:53:708 Windows Detected: Windows 10 Pro : Professional : 6.3 : 10240.16545
+13:42:53:709 Using host: 10.97.186.105:1688
+13:42:53:709 Using method: SECOH-QAD
+13:42:53:723 Opening Firewall Port...
+13:42:53:778 Opening Firewall App...
+13:42:53:920 KMSEmulator Port: 1688
+13:42:53:921 Get Registry : SYSTEM\CurrentControlSet\Services\sppsvc:Start
+13:42:53:926 KMSEmulator running port: 1688
+13:42:54:016 Time synchronized
+13:42:54:133 Loading OEM Key Dumper...
+13:42:54:133 None MSDM table found
+13:42:54:217 Office 2013 Found: C:\Program Files\Microsoft Office\Office15\
+13:42:54:244 Office 2010 Skipped
+13:42:54:309 Office 2016 Found: C:\Program Files\Microsoft Office\root\Office16
+13:42:54:873 Found Office 2016 Products: 1
+13:42:54:875 Name: Office 16, Office16ProPlusVL_KMS_Client edition
+Description: Office 16, VOLUME_KMSCLIENT channel
+GracePeriodRemaining: 258958
+LicenseStatus: 1
+PartialProductKey: WFG99
+GenuineStatus: 0
+
+13:42:55:266 DisableKeyManagementServiceHostCaching 0
+13:42:55:267 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\4f414197-0fc2-4c01-b68a-86cbb9ac254c:KeyManagementServiceName
+13:42:55:267 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\4f414197-0fc2-4c01-b68a-86cbb9ac254c:KeyManagementServicePort
+13:42:55:267 Found Office 2013 Products: 1
+13:42:55:267 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\6bf301c1-b94a-43e9-ba31-d494598c47fb:KeyManagementServiceName
+13:42:55:267 Name: Office 15, OfficeProPlusVL_KMS_Client edition
+Description: Office 15, VOLUME_KMSCLIENT channel
+GracePeriodRemaining: 258958
+LicenseStatus: 1
+PartialProductKey: GVGXT
+GenuineStatus: 0
+
+13:42:55:268 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\6bf301c1-b94a-43e9-ba31-d494598c47fb:KeyManagementServicePort
+13:42:55:268 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServiceName
+13:42:55:268 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServicePort
+13:42:55:268 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\d450596f-894d-49e0-966a-fd39ed4c4c64:KeyManagementServiceName
+13:42:55:268 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\d450596f-894d-49e0-966a-fd39ed4c4c64:KeyManagementServicePort
+13:42:55:663 DisableKeyManagementServiceHostCaching 0
+13:42:55:664 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\4a5d124a-e620-44ba-b6ff-658961b33b9a:KeyManagementServiceName
+13:42:55:664 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\4a5d124a-e620-44ba-b6ff-658961b33b9a:KeyManagementServicePort
+13:42:55:664 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServiceName
+13:42:55:664 Found Windows Products: 1
+13:42:55:664 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServicePort
+13:42:55:665 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\e13ac10e-75d0-4aff-a0cd-764982cf541c:KeyManagementServiceName
+13:42:55:665 Name: Windows(R), Professional edition
+Description: Windows(R) Operating System, RETAIL channel
+GracePeriodRemaining: 0
+LicenseStatus: 1
+PartialProductKey: 3V66T
+GenuineStatus: 0
+
